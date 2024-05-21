@@ -1,5 +1,7 @@
 # Crypto---Web-3.0-Blockchain-Application
-![Screenshot (44)](https://user-images.githubusercontent.com/128457043/230763446-ed6d527d-ecf5-41fa-8b90-81b20510d2bf.png)
+![Thumb Crypto](https://github.com/aakaaaash/Crypto-Blockchain/assets/128457043/12a2a1fc-d414-4772-85a4-fd992fe123e1)
+*********************************************************************************************************************
+![thumb meta](https://github.com/aakaaaash/Crypto-Blockchain/assets/128457043/f2f3326e-0fe6-4266-8b7b-926a651ec0d9)
 
 # Introduction
 
